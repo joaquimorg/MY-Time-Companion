@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/activity_device.xml" value="0.1" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/activity_device2.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/content_device.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/device_list_empty.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/device_list_row.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/device_list_title.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_device_control.xml" value="0.2694746376811594" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_device_selection.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_feature_device_control.xml" value="0.41304347826086957" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_feature_uart_control.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_feature_uart_log.xml" value="0.27445652173913043" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_first.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_main_control.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/fragment_second.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/log_item.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/toolbar.xml" value="0.21979166666666666" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/layout/toolbar_w_spinner.xml" value="0.2703804347826087" />
+        <entry key="..\:/Work/PineTime/APPs/MYTimeCompanion/app/src/main/res/menu/main_menu.xml" value="0.34285714285714286" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
